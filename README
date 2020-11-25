@@ -1,0 +1,3 @@
+A small IDE (in the terminal) for programming Olimex's Sam7 AVR boards
+
+. serves functionality for AT91 Sam7 Atmel based boards. See olimex.com/dev
